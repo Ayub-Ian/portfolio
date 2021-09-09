@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.854ae6ed.chunk.css",
+    "main.js": "/portfolio/static/js/main.a221fac8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a221fac8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.df08f8a2.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.df08f8a2.js.map",
+    "static/js/2.8b3a08ff.chunk.js": "/portfolio/static/js/2.8b3a08ff.chunk.js",
+    "static/js/2.8b3a08ff.chunk.js.map": "/portfolio/static/js/2.8b3a08ff.chunk.js.map",
+    "static/js/3.6fc94dce.chunk.js": "/portfolio/static/js/3.6fc94dce.chunk.js",
+    "static/js/3.6fc94dce.chunk.js.map": "/portfolio/static/js/3.6fc94dce.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.854ae6ed.chunk.css.map": "/portfolio/static/css/main.854ae6ed.chunk.css.map",
+    "static/js/2.8b3a08ff.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8b3a08ff.chunk.js.LICENSE.txt",
+    "static/media/AyubCV.pdf": "/portfolio/static/media/AyubCV.1eaed507.pdf",
+    "static/media/Coding-bro.png": "/portfolio/static/media/Coding-bro.665b6c2c.png",
+    "static/media/takenote.png": "/portfolio/static/media/takenote.4cd2304c.png",
+    "static/media/tnh-intranet.png": "/portfolio/static/media/tnh-intranet.2b0fb2a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df08f8a2.js",
+    "static/js/2.8b3a08ff.chunk.js",
+    "static/css/main.854ae6ed.chunk.css",
+    "static/js/main.a221fac8.chunk.js"
+  ]
+}
